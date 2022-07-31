@@ -1,4 +1,4 @@
-👋 Hi, I’m @HIMESH1998  
+👋 Hi, I’m @AETHER  
 👀 I’m interested in development  
 🌱 I’m currently learning MERN stack  
 💞️ I’m looking to collaborate on MERN STACK  
