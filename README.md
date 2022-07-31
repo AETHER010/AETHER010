@@ -1,8 +1,8 @@
-👋 Hi, I’m @HIMESH1998
-👀 I’m interested in development
-🌱 I’m currently learning MERN stack
-💞️ I’m looking to collaborate on MERN STACK
-📫 How to reach me www.himeshbhandari.com.np
+👋 Hi, I’m @HIMESH1998  
+👀 I’m interested in development  
+🌱 I’m currently learning MERN stack  
+💞️ I’m looking to collaborate on MERN STACK  
+📫 How to reach me www.himeshbhandari.com.np  
 
 
 <!---
